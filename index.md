@@ -14,7 +14,7 @@ Non real time subscription links, update cycle around a week.
 
 A cool Website [SSCAP Tools](https://www.ssrtool.com/tool/free_ssr)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see GitHub Flavored Markdown.
 
 ### Themes
 
