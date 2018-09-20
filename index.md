@@ -10,7 +10,7 @@ You can find the subscription address below.
 
 Non real time subscription links, update cycle around a week.
 
-(https://raw.githubusercontent.com/ImLaoD/sub/master/ssrshare.com)
+[https://raw.githubusercontent.com/ImLaoD/sub/master/ssrshare.com](https://raw.githubusercontent.com/ImLaoD/sub/master/ssrshare.com)
 
 A cool Website [SSCAP Tools](https://www.ssrtool.com/tool/free_ssr)
 
