@@ -7,7 +7,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### SSR subscription address
 
 You can find the subscription address below.
-https://www.ssrtool.com/tool/free_ssr
+
+[SSCAP Tools](https://www.ssrtool.com/tool/free_ssr)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
