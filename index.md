@@ -8,6 +8,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 You can find the subscription address below.
 
+非实时订阅链接，更新周期一周左右
+
+https://raw.githubusercontent.com/ImLaoD/sub/master/ssrshare.com
+
 [SSCAP Tools](https://www.ssrtool.com/tool/free_ssr)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
